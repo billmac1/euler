@@ -1,0 +1,4 @@
+euler
+=====
+
+selected euler solutions
